@@ -1,26 +1,20 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">   
-    <modelVersion>4.0.0</modelVersion>
+      <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">   
+         <modelVersion>4.0.0</modelVersion>
 
     <packaging>jar</packaging>
     <groupId>com.github.manodj-sfdc</groupId>
     <artifactId>travis-central-test</artifactId>
-    <version>0.0.7</version>
-   
+    <version>0.0.7-SNAPSHOT</version>
     <name>Test</name>
-    <description>
-        Localization Framework that allows grammatically correct renaming of nouns..
-    </description>
+    <description>testing1</description>
     <url>http://jamesward.com</url> 
-    <organization>
-        <name>Salesforce</name>
-        <url>http://www.salesforce.com</url>
-    </organization>    
 
 
     <licenses>
         <license>
             <name>BSD-3-Clause</name>
-            <url>file://${basedir}/LICENSE.txt</url>
+            <url>https://spdx.org/licenses/BSD-3-Clause.html</url>
+            <distribution>repo</distribution>
         </license>
     </licenses>
 
@@ -73,9 +67,9 @@
             scm:git:git@github.com:manodj-sfdc/grammaticus.git
         </connection>
         <developerConnection>
-            scm:git:https://github.com:manodj-sfdc/grammaticus.git
+            scm:git:https://github.com/manodj-sfdc/grammaticus.git
         </developerConnection>
-        <tag>v0.0.7</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
