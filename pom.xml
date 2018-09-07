@@ -6,8 +6,8 @@
     <artifactId>travis-test</artifactId>
     <version>0.0.6-SNAPSHOT</version>
     <name>Test</name>
-    <description>testing</description>
-    <url>http://jamesward.com</url>
+    <description>testing1</description>
+    <url>http://jamesward.com</url> 
 
 
     <licenses>
