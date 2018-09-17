@@ -4,9 +4,9 @@
     <packaging>jar</packaging>
     <groupId>com.github.manodj-sfdc</groupId>
     <artifactId>travis-central-test</artifactId>
-    <version>0.0.10-SNAPSHOT</version>
+    <version>0.0.10</version>
     <name>Test</name>
-    <description>testing12222</description>
+    <description>testing1352222</description>
     <url>http://jamesward.com</url> 
 
 
