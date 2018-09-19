@@ -4,7 +4,7 @@
     <packaging>jar</packaging>
     <groupId>com.github.manodj-sfdc</groupId>
     <artifactId>travis-central-test</artifactId>
-    <version>>0.0.12-SNAPSHOT</version>
+    <version>1.0</version>
     <name>Test</name>
     <description>testing135222x2</description>
     <url>http://jamesward.com</url> 
@@ -69,7 +69,7 @@
         <developerConnection>
             scm:git:https://github.com/manodj-sfdc/grammaticus.git
         </developerConnection>
-        <tag>HEAD</tag>
+        <tag>v1.0</tag>
     </scm>
 
     <distributionManagement>
